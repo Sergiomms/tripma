@@ -3,7 +3,7 @@
 import { createGlobalStyle, DefaultTheme, } from "styled-components";
 
 type GlobalStyleProps = {
-  theme: DefaultTheme
+  theme?: DefaultTheme
   removeBg?: boolean
 }
 

@@ -7,6 +7,7 @@ export default function Home() {
     <Content>
       <TitleContainer>
         <Title>It's more than just a trip</Title>
+        <div>teste</div>
       </TitleContainer>
     </Content>
   );

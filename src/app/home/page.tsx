@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <Content>
       <TitleContainer>
-        <Title>It's more than just a trip</Title>
+        <Title>It{`'`}s</Title>
         <div>teste</div>
       </TitleContainer>
     </Content>

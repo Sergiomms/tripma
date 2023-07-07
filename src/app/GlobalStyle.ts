@@ -12,6 +12,7 @@ export const GlobalStyle = createGlobalStyle<GlobalStyleProps>`
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font: 1.2em "Fira Sans", sans-serif;
   }
 
 `;
